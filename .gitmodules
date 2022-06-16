@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AmpGram"]
+	path = AmpGram
+	url = https://github.com/michbur/ampgram
+	shallow = true
+	registered = true
+[submodule "AmyloGram"]
+	path = AmyloGram
+	url = https://github.com/michbur/amylogram
+	shallow = true
+	registered = true
+[submodule "biogram"]
+	path = biogram
+	url = https://github.com/michbur/biogram
+	shallow = true
+	registered = true
+[submodule "signalHsmm"]
+	path = signalHsmm
+	url = https://github.com/michbur/signalhsmm
+	shallow = true
+	registered = true

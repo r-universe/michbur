@@ -1,0 +1,18 @@
+[
+  {
+    "package": "AmpGram",
+    "oncran": true
+  },
+  {
+    "package": "AmyloGram",
+    "oncran": true
+  },
+  {
+    "package": "biogram",
+    "oncran": true
+  },
+  {
+    "package": "signalHsmm",
+    "oncran": true
+  }
+]
