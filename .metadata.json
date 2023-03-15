@@ -1,6 +1,6 @@
 [
   {
-    "package": "biogram",
+    "package": "AmpGram",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "AmpGram",
+    "package": "biogram",
     "oncran": true
   },
   {
