@@ -13,6 +13,11 @@
 	url = https://github.com/michbur/amylogram
 	shallow = true
 	registered = true
+[submodule "bcv"]
+	path = bcv
+	url = https://github.com/michbur/bcv
+	shallow = true
+	registered = true
 [submodule "biogram"]
 	path = biogram
 	url = https://github.com/michbur/biogram
