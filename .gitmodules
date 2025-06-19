@@ -14,6 +14,9 @@
 [submodule "biogram"]
 	path = biogram
 	url = https://github.com/michbur/biogram
+[submodule "dpcR"]
+	path = dpcR
+	url = https://github.com/michbur/dpcr
 [submodule "signalHsmm"]
 	path = signalHsmm
 	url = https://github.com/michbur/signalhsmm
